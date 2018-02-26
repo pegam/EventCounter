@@ -5,4 +5,4 @@ Requirements:
 - memcached
 - beanstalkd
 
-Queue worker should be running. Start worker with 'php queue/worker.php'.
+In order for the application to work, queue worker must be started. Run worker with 'php queue/worker.php'.
